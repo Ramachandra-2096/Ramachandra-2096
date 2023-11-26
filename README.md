@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on open-source projects related to data science, AI, or web development. I'm always excited to work with like-minded individuals and contribute to impactful projects.
 
 📫 How to reach me:
-  - LinkedIn: [www.linkedin.com/in/ramachandra-udupa2004]
+  - LinkedIn: [www.linkedin.com/in/ramachandra-udupa]
   - Email: ramachandraudupa2004@gmail.com
 
 Feel free to connect with me if you share similar interests or if you're interested in collaborating on exciting projects. Let's learn and build together!
